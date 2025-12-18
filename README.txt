@@ -1,5 +1,5 @@
 || this ahk code replaces what you type with whatever you want.
-|| for it to work, you Need to have ahk set up, obvi.
+|| for it to work, you Need to have ahk set up, obvi. (ahk 2.0.19)
 ||-------------------------------------------------------------
 || this is how it makes you type per deafult:
 || 
@@ -55,5 +55,6 @@
 || but worth checking/knowing.
 ||
 || Have fun!
+
 
 
