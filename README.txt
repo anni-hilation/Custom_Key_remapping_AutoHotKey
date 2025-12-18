@@ -4,6 +4,7 @@
 || this is how it makes you type per deafult:
 || 
 || ᵀʰᵉ ᵠᵘᶦᶜᵏ ᵇʳᵒʷⁿ ᶠᵒˣ ʲᵘᵐᵖˢ ᵒᵛᵉʳ ᵗʰᵉ ˡᵃᶻʸ ᵈᵒᵍ.
+|| (It has case sensitivity)
 ||
 || to Change it, open the ahk in Editor and replace
 ||
@@ -54,4 +55,5 @@
 || but worth checking/knowing.
 ||
 || Have fun!
+
 
