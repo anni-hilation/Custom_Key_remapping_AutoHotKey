@@ -54,7 +54,10 @@
 || Then, go on Encoding and make sure UTF-16 LE BOM is selected. It should be selected already, bc i did it 
 || but worth checking/knowing.
 ||
+|| Press esc to stop it / you can also kill it in the system tray
+||
 || Have fun!
+
 
 
 
