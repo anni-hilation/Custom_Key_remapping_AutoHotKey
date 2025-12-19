@@ -1,3 +1,11 @@
+ ____                        __                     
+/\  _`\                     /\ \  /'\_/`\           
+\ \ \L\ \     __     __     \_\ \/\      \     __   
+ \ \ ,  /   /'__`\ /'__`\   /'_` \ \ \__\ \  /'__`\ 
+  \ \ \\ \ /\  __//\ \L\.\_/\ \L\ \ \ \_/\ \/\  __/ 
+   \ \_\ \_\ \____\ \__/.\_\ \___,_\ \_\\ \_\ \____\
+    \/_/\/ /\/____/\/__/\/_/\/__,_ /\/_/ \/_/\/____/
+
 || this ahk code replaces what you type with whatever you want.
 || for it to work, you Need to have ahk set up, obvi. (ahk 2.0.19)
 ||-------------------------------------------------------------
@@ -57,6 +65,7 @@
 || Press esc to stop it / you can also kill it in the system tray
 ||
 || Have fun!
+
 
 
 
